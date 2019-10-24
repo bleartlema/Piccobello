@@ -1,0 +1,195 @@
+/**********************************************************/
+/*SONSTIGES*/
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+
+.footer {
+    background-color: #e6ecef;
+}
+
+.jumbotron {
+    position: center;
+}
+
+
+
+/**********************************************************/
+
+
+
+
+
+/**********************************************************/
+/*NAVIGATION*/
+
+.sr-only{
+    background-color: green;
+    color: white;
+}
+
+
+.nav-link{
+    color: white;
+
+}
+
+.nav-item{
+
+    color: white;
+    background-color: #6aa84f;
+    border-color: white;
+    border-style: solid;
+    border-bottom: white;
+    border-top: white;
+    /*border-left: black;*/
+    border-right:none;
+
+
+}
+
+.nav-item:hover{
+
+    border-style: solid;
+    background-color: green;;
+    border-bottom: white;
+    border-top: white;
+    border-right:none;
+
+}
+
+.aktuell{
+    border-style: solid;
+    background-color: green;;
+    border-bottom: white;
+    border-top: white;
+    border-right:none;
+
+}
+
+
+.nav-item:active{
+    border-style: solid;
+    background-color: green;;
+    border-bottom: white;
+    border-top: white;
+    border-right:none;
+}
+
+
+/*ENDE*/
+/*********************************************************/
+
+
+
+
+
+
+
+
+
+/**********************************************************/
+/*COUNTER BUTTONS*/
+.fa {
+    /*background-color: yellow;*/
+    height: 5px;
+
+}
+
+.fa:hover {
+    background-color: green;
+
+
+}
+
+.fa-plus {
+    position: center;
+
+}
+
+.fa-minus {
+    position: center;
+}
+
+/*ENDE*/
+/**********************************************************/
+
+
+
+
+
+
+/**********************************************************/
+/*ALLE ANDEREN BUTTONS*/
+.zimmerhinzufuegen{
+    width: 450px;
+}
+
+
+.gross{
+    width: 500px;
+
+}
+
+
+.btn {
+
+
+    align: center;
+    background-color: #6aa84f;
+    border: none;
+    color: white;
+
+
+
+    cursor: pointer;
+}
+
+.btn:hover {
+    text-underline: none;
+    text-underline-mode: none;
+    background-color: green;
+    border: none;
+    color: white;
+
+    cursor: pointer;
+}
+
+
+.btn:active {
+
+    background-color: green;
+    border: none;
+    color: white;
+
+    cursor: pointer;
+}
+
+/*ENDE*/
+/**********************************************************/
+
+
+
+
+
+
+
+/**********************************************************/
+/*PROGRESSBAR*/
+.progress-bar {
+    background-color: green;
+}
+
+.progress-bar-success {
+    background-color: green;
+}
+
+.progress-bar-striped {
+
+    background-color: green;
+
+}
+
+/*ENDE*/
+/**********************************************************/
